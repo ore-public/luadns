@@ -1,5 +1,6 @@
 a("mydic.".._a, "219.94.248.240")
 a("git.".._a, "219.94.248.240")
+a(_a, "219.94.248.240")
 cname("blog.".._a, "ghs.google.com")
 mx(_a, "aspmx.l.google.com", 10)
 mx(_a, "alt1.aspmx.l.google.com", 20)
